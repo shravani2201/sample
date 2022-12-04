@@ -1,3 +1,5 @@
+// shreya's changes
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -23,3 +25,5 @@ int main(){
    }while(guess!=number);
    return 0;
 }
+
+// Thank you 
